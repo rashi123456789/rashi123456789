@@ -40,7 +40,7 @@
 <br/>
 
 ###
-![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi123456789&show_icons=true&theme=dark&bg_color=#ffffff)
+![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=rashi123456789&show_icons=true&theme=gruvbox&bg_color=#ffffff)
 
 
 
